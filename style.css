@@ -17,10 +17,10 @@ body{
 }
 
 .apresentacao{
-    margin: 10% 15%;
+    margin: 10% 5%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 .apresentacao__conteudo{
     width: 615px;
