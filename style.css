@@ -56,3 +56,10 @@ body{
     color: #000000;
     font-family: 'Montserrat', sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+    .apresentacao {
+        display: block;
+        background-image: none;
+    }
+}
